@@ -1,0 +1,40 @@
+.footer {
+  width: 1440px;
+    height: 250px;
+    top: 98px;
+    background-color: blueviolet;
+}
+
+.footer1{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5rem;
+  
+}
+
+
+.footer2 li {
+  list-style-type: none;
+  margin-bottom: 1rem;
+}
+
+.footer2 h1 {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+
+.footer3 li {
+  list-style-type: none;
+  margin-bottom: 1rem;
+}
+
+.footer3 h1 {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+
+}
+
+.footer3{
+  margin-right: 20rem;
+}

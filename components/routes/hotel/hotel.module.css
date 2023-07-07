@@ -1,0 +1,45 @@
+.hotelsource1 {
+  width: 1440px;
+  height: 250px;
+  top: 98px;
+
+  /* background-color: aqua; */
+
+  background-image: url('https://img.lovepik.com/photo/20211203/small/lovepik-hotel-lobby-picture_501493440.jpg');
+  /* background-color: aqua; */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hotelsource2 {
+  width: 1440px;
+  height: 300px;
+  top: 98px;
+
+  background-color:white;
+}
+.hotelsource3 {
+  width: 1440px;
+  height: 250px;
+  top: 98px;
+
+  background-color: aqua;
+}
+
+.available {
+  display: flex;
+  overflow: auto;
+  /* margin-top: 2rem; */
+}
+
+.availablehotel {
+  margin-top: 1rem;
+  
+}
+
+.hotelimg{
+  
+}

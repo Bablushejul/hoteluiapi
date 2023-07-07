@@ -1,0 +1,144 @@
+
+.imgs { 
+  width: 276px;
+height: 250px;
+}
+
+.inner1 {
+  width: 1440px;
+  height: 250px;
+  top: 98px;
+
+  background-color: aqua;
+}
+.inner2 {
+  width: 1440px;
+  height: 250px;
+  top: 98px;
+  background-color:white;
+}
+.inner3 {
+  width: 1440px;
+  height: 300px;
+  top: 98px;
+  background-color: blue;
+}
+.inner4 {
+  display: flex;
+  /* grid-template-columns: repeat(4,1fr); */
+  /* background-color: black; */
+  width: 1440px;
+  /* height: 300px; */
+  top: 98px;
+  background-color: beige;
+}
+
+.inner5 {
+  width: 1440px;
+  height: 300px;
+  top: 98px;
+  background-color: white;
+}
+.icons {
+  display: flex;
+}
+.icon1 {
+  width: 300px;
+  height: 240px;
+  margin-top: 5px;
+  margin-left: 4rem;
+  background-color: white;
+  border-color: black;
+  border-radius: 1rem;
+  box-shadow: 5rem;
+}
+.icon2 {
+  width: 300px;
+  height: 240px;
+  margin-top: 5px;
+  margin-left: 4rem;
+  background-color: white;
+  border-color: black;
+  border-radius: 1rem;
+  box-shadow: 5rem;
+}
+.icon3 {
+  width: 300px;
+  height: 240px;
+  margin-top: 5px;
+  margin-left: 4rem;
+  background-color: white;
+  border-color: black;
+  border-radius: 1rem;
+  box-shadow: 5rem;
+}
+.icon4 {
+  width: 300px;
+  height: 240px;
+  margin-top: 5px;
+  margin-left: 4rem;
+  background-color: white;
+  border-color: black;
+  border-radius: 1rem;
+  box-shadow: 5rem;
+  margin-right: 5rem;
+}
+.images1 {
+  width: 54px;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.imgsection{
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
+  overflow:auto;
+  scroll-behavior: smooth;
+  /* height: 300px; */
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: white;
+  padding: 2rem;
+  grid-row-gap: 1rem;
+}
+
+.imgsection1{
+  /* width: 200px;
+  height: 300px;
+  margin-left: 3rem;
+  margin-top: 3rem;
+  text-align: center; */
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  display: flex;
+}
+.imgs1{
+  width: 100px;
+  height: 100px;
+ 
+}
+
+
+.voucher{
+  display: flex;
+  overflow: auto;
+  scroll-behavior: smooth;
+}
+
+.voucherblock{
+  width: 400px;
+  height: 300px;
+  margin-left: 2rem;
+margin-top: 1rem;
+}
+
+.voucherimg{
+  width: 400px;
+  height: 250px;
+  
+}
