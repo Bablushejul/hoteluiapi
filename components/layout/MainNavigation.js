@@ -28,9 +28,7 @@ function MainNavigation() {
             <li>
               <Link href="/hotel" >Hotel</Link>
             </li>
-            <li>
-              <Link href="/card">Card</Link>
-            </li>
+            
             <li>
               <Link href="/shop">shop</Link>
             </li>

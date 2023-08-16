@@ -1,8 +1,9 @@
+import Flight from "@/components/routes/flight/Flight";
+
 export default function Home() {
   return (
     <>
-      
-    <h1>Welcome</h1>
+    <Flight />
     </>
   );
 }
